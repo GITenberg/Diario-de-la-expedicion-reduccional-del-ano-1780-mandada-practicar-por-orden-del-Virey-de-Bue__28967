@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33614'
     url: http://www.gutenberg.org/2009/agents/33614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28967#Diario-de-la-expedicion-reduccional-del-ano-1780-mandada-practicar-por-orden-del-Virey-de-Bue_
 gutenberg_issued: '2009-05-25'
 gutenberg_type: Text
 identifiers:
